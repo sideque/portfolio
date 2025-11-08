@@ -21,19 +21,19 @@ export default function Document() {
         />
         <link rel="manifest" href="/manifest.json" />
         <link
-          href="../public/icons/192.png"
+          href="/icons/192.png"
           rel="icon"
           type="image/png"
           sizes="16x16"
         />
         <link
-          href="../public/icons/192.png"
+          href="/icons/192.png"
           rel="icon"
           type="image/png"
           sizes="32x32"
         />
-        <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
-        <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
+        <link rel="apple-touch-icon" href="/icons/192.png"></link>
+        <link rel="apple-touch-icon" href="/icons/192.png"></link>
 
         <meta name="theme-color" content="#ffd369" />
       </Head>

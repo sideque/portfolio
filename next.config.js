@@ -7,10 +7,8 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 
-  // Only use basePath for production builds (GitHub Pages), not for dev or Vercel
-  ...(process.env.NODE_ENV === 'production' && process.env.GITHUB_ACTIONS && { 
-    basePath: '/my-new-portfolio' 
-  }),
+  // NO basePath for Vercel - remove the conditional entirely
+  // basePath will break Vercel deployments
 
   images: {
     unoptimized: true, // ✅ required for static export

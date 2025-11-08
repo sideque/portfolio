@@ -47,17 +47,17 @@ function MyApp({ Component, pageProps }) {
 
         <link rel="manifest" href="/manifest.json" />
         <link
-          href="../public/icons/16.png"
+          href="/icons/16.png"
           rel="icon"
           type="image/png"
           sizes="16x16" />
         <link
-          href="../public/icons/32.png"
+          href="/icons/32.png"
           rel="icon"
           type="image/png"
           sizes="32x32" />
-        <link rel="apple-touch-icon" href="../public/icons/16.png"></link>
-        <link rel="apple-touch-icon" href="../public/icons/32.png"></link>
+        <link rel="apple-touch-icon" href="/icons/16.png"></link>
+        <link rel="apple-touch-icon" href="/icons/32.png"></link>
       </Head>
       <Component {...pageProps} />
     </>
