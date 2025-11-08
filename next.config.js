@@ -7,8 +7,10 @@ const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
 
-  // Updated for your new repository
-  basePath: '/my-new-portfolio',
+  // Only use basePath for production builds (GitHub Pages), not for dev or Vercel
+  ...(process.env.NODE_ENV === 'production' && process.env.GITHUB_ACTIONS && { 
+    basePath: '/my-new-portfolio' 
+  }),
 
   images: {
     unoptimized: true, // ✅ required for static export
