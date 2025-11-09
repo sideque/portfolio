@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">
     Sidhique - Portfolio
 </h1>
@@ -61,3 +62,6 @@ OpenSource contribution is something that makes internet more beautiful. So any 
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/afzalimdad9" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+# portfolio
+>>>>>>> 4f74dfabb194fc06424f4f80a2107c56d23decb1

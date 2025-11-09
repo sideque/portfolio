@@ -32,12 +32,12 @@
   "main": "next.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afzalimdad9/animated-portfolio.git"
+    "url": "git+https://github.com/sideque/portfolio.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/afzalimdad9/animated-portfolio/issues"
+    "url": "https://github.com/sideque/portfolio/issues"
   },
-  "homepage": "https://github.com/afzalimdad9/animated-portfolio#readme"
+  "homepage": "https://github.com/sideque/portfolio#readme"
 }
