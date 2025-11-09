@@ -57,7 +57,17 @@ const projects = {
                 'JavaScript',
                 'TypeScript'
             ]
-        }
+        },
+         {
+            image: '/assets/projects/sfll.png',
+            label: 'Interactive Scroll Animation',
+            title: `Cards Shuffle`,
+            description: `A sleek, scroll-based card animation built with Next.js, Framer Motion, Tailwind CSS, and Lenis for smooth and dynamic transitions.`,
+            techs: [
+                'Next.js',
+                'Tailwind CSS',
+            ]
+        },
     ]
 }
 

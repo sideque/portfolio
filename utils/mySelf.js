@@ -2,7 +2,7 @@ const mySelf = {
     heading: 'My Portfolio',
     paragraphs: [
         `
-  Hello! My name is Aboobakkar Sidhique KK, but most people know me as L. I love creating things for the internet. From a young age, I was curious about how websites and apps work. I used to spend time exploring how designs change with colors and how simple codes bring big ideas to life. That curiosity slowly turned into my passion, and now, I’m turning that passion into my career as a web developer.
+  Hello! My name is Aboobakkar Sidhique KK. I love creating things for the internet. I was curious about how websites and apps work. I used to spend time exploring how designs change with colors and how simple codes bring big ideas to life. That curiosity slowly turned into my passion, and now, I’m turning that passion into my career as a web developer.
   `,
   `
   For me, programming is not just about writing code — it’s about solving problems and bringing imagination to reality. It’s a way to express creativity, learn continuously, and build something that can help people around the world.
